@@ -19,7 +19,7 @@ We created a pivot table to display the total fares per city type in a period of
 
 ## Summary:
 Our business recommendations are:
-* 1)Reduce the number of drivers in Urban areas, so each driver can have more opportunities to get a ride and make more money in average. 
-* 2)Relocate some drivers to Rural areas, maybe there is more demand and not enough drivers to faced it and that's why their average fare per driver is so high.
-* 3)Increase your fares in Urban areas, because there are around 12x more rides than in rual areas, but the total fares dont have the same proportion. So increasing prices is another option to increase fare per ride and per drivers in Urban type.
-* 4)Check your April information or analyse the resason for such a big drop in the rides.
+* Reduce the number of drivers in Urban areas, so each driver can have more opportunities to get a ride and make more money in average. 
+* Relocate some drivers to Rural areas, maybe there is more demand and not enough drivers to faced it and that's why their average fare per driver is so high.
+* Increase your fares in Urban areas, because there are around 12x more rides than in rual areas, but the total fares dont have the same proportion. So increasing prices is another option to increase fare per ride and per drivers in Urban type.
+* Check your April information or analyse the resason for such a big drop in the rides.
