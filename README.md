@@ -14,7 +14,7 @@ We reorganized the data by using the groupby() function to get a summary datafra
 
 We created a pivot table to display the total fares per city type in a period of time. As expected the total fare amount is aprox 4x higher than the rural total fares. The three of them are kinf of constants except in April that we can see a huge drop on April, it's really big so we need to double check that the information in the database is accurate.
 
-![Screen Shot 2022-02-26 at 6 51 01 AM](https://user-images.githubusercontent.com/43548929/160228068-18829bb3-9f08-47e5-92f1-a23c3b2dbf5b.png)
+![Screen Shot 2022-03-25 at 11 38 14 PM](https://user-images.githubusercontent.com/43548929/160228722-a1f76741-95cc-4c1e-92ff-c04c1c0b361f.png)
 
 
 ## Summary:
